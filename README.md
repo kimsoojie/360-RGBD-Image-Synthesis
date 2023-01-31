@@ -7,6 +7,7 @@ https://drive.google.com/drive/folders/1z923DfoEe-eUBTrNFR-Hhy_3Dz5yXYpz?usp=sha
 
 ### Pre-trained model (w/o frechet distance loss)  
 https://drive.google.com/drive/folders/1-vq8boSTyfHXQcJ8pKByFo3Uhc1A2ZtI?usp=sharing
+
 https://drive.google.com/drive/folders/1bxg-g9sjroHTOT3Kxb_AOgLe2a7RTnRI?usp=sharing
 
 ### Output models (matterport3d)  
